@@ -26,11 +26,10 @@ html {
     font-family: 'Dancing Script', cursive;
 }
 
-
-
 /*Text and Layout*/
 
 header {
     font-family: 'Dancing Script', cursive;
     font-weight: 700;
+    text-alignment: center;
 }
