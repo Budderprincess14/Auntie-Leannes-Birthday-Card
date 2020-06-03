@@ -20,7 +20,7 @@
 
 html {
     background: rgb(150,123,182);
-    background: radial-gradient(circle, rgba(150,123,182,1) 0%, rgba(200,109,190,1) 26%, rgba(249,94,198,1) 50%, rgba(124,166,210,1) 75%, rgba(8,232,222,1) 100%);
+    
     font-family: 'Dancing Script', cursive;
 }
 
