@@ -30,7 +30,7 @@ body {
     width: 600px;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
-    font-size: 10px;
+    font-size: 2em;
 }
 
 
@@ -49,5 +49,5 @@ p {
 
 .signature {
     text-align: right;
-    font-style: italic;
+    font-style: oblique;
 }
