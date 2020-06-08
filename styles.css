@@ -43,4 +43,11 @@ p {
     text-indent: 30%;
 }
 
+.closing {
+    text-align: right;
+}
 
+.signature {
+    text-align: right;
+    font-style: italic;
+}
