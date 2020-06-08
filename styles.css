@@ -39,9 +39,12 @@ h1 {
     padding: 20px 0;
 }
 
+p {
+    line-height: normal;
+}
+
 .first {
     text-indent: 5%;
-    line-height: normal;
 }
 
 .closing{
